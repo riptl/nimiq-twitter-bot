@@ -1,0 +1,22 @@
+{
+  "name": "nimiq-twitter-bot",
+  "version": "1.0.0",
+  "description": "Twitter Bot for Nimiq",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/terorie/nimiq-twitter-bot.git"
+  },
+  "keywords": [
+    "nimiq"
+  ],
+  "author": "Richard Patel <me@terorie.dev>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/terorie/nimiq-twitter-bot/issues"
+  },
+  "homepage": "https://github.com/terorie/nimiq-twitter-bot#readme",
+  "dependencies": {
+    "ws": "^6.2.1"
+  }
+}
